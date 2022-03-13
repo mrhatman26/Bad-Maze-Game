@@ -4,7 +4,7 @@ A bad maze game that I created using pygame. I wouldn't recommened playing this,
 To run the game, either download the release or use Python to run "game.py".<br>
 
 This was made using the following libraries:<br>
-  -pygame
-  -random
-  -sys
-  -csv
+  -pygame<br>
+  -random<br>
+  -sys<br>
+  -csv<br>
