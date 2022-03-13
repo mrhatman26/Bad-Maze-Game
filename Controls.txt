@@ -1,0 +1,9 @@
+Controls:
+	WASD: Move to next available cell.
+	Q: Turn 90 degrees clockwise.
+	E: Turn 90 degrees anti-clockwise.
+	Spacebar: Shoot.
+	R: Restart the game.
+	Escape: Exit the game.
+	
+	Please let me know of any crashes if possible!: mrhatman26#3683 (Discord)
